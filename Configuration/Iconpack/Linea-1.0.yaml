@@ -1,0 +1,69 @@
+iconpack:
+  title: "Linea Icons"
+  key: "linea"
+  version: "1.0"
+  url: "https://linea.io/"
+
+  stylesEnabled: "basic,music,ecommerce,software,elaboration,arrows,weather"
+
+  renderTypes:
+    _dafeult:
+      basic:
+        label: "Basic"
+      music:
+        label: "Music"
+      ecommerce:
+        label: "E-Commerce"
+      software:
+        label: "Software"
+      elaboration:
+        label: "Basic Elaborations"
+      arrows:
+        label: "Arrows"
+      weather:
+        label: "Weather"
+
+    webfont:
+      basic:
+        css: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/css/linea-basic.css"
+        prefix: "linea-basic-"
+      music:
+        css: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/css/linea-music.css"
+        prefix: "linea-music-"
+      ecommerce:
+        css: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/css/linea-ecommerce.css"
+        prefix: "linea-ecommerce-"
+      software:
+        css: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/css/linea-software.css"
+        prefix: "linea-software-"
+      elaboration:
+        css: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/css/linea-basic-elaboration.css"
+        prefix: "linea-basic-elaboration-"
+      arrows:
+        css: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/css/linea-arrows.css"
+        prefix: "linea-arrows-"
+      weather:
+        css: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/css/linea-weather.css"
+        prefix: "linea-weather-"
+
+    svg:
+      _default:
+        attributes:
+          fill: "currentColor"
+          class: "linea"
+      basic:
+        source: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/svgs/basic/"
+      music:
+        source: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/svgs/music/"
+      ecommerce:
+        source: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/svgs/ecommerce/"
+      software:
+        source: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/svgs/software/"
+      elaboration:
+        source: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/svgs/basic-elaboration/"
+      arrows:
+        source: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/svgs/arrows/"
+      weather:
+        source: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/svgs/weather/"
+
+  icons: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/metadata/icons.json"

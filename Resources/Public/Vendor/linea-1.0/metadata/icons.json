@@ -1,0 +1,2123 @@
+{
+  "accelerator": {
+    "styles": ["basic"]
+  },
+  "add-vectorpoint": {
+    "styles": ["software"]
+  },
+  "alarm": {
+    "styles": ["basic"]
+  },
+  "anchor": {
+    "styles": ["basic"]
+  },
+  "anticlockwise": {
+    "styles": ["basic", "arrows"]
+  },
+  "anticlockwise-dashed": {
+    "styles": ["arrows"]
+  },
+  "aquarius": {
+    "styles": ["weather"]
+  },
+  "archive": {
+    "styles": ["basic"]
+  },
+  "archive-full": {
+    "styles": ["basic"]
+  },
+  "aries": {
+    "styles": ["weather"]
+  },
+  "bag": {
+    "styles": ["ecommerce"]
+  },
+  "bag-check": {
+    "styles": ["ecommerce"]
+  },
+  "bag-cloud": {
+    "styles": ["ecommerce"]
+  },
+  "bag-download": {
+    "styles": ["ecommerce"]
+  },
+  "bag-minus": {
+    "styles": ["ecommerce"]
+  },
+  "bag-plus": {
+    "styles": ["ecommerce"]
+  },
+  "bag-refresh": {
+    "styles": ["ecommerce"]
+  },
+  "bag-remove": {
+    "styles": ["ecommerce"]
+  },
+  "bag-search": {
+    "styles": ["ecommerce"]
+  },
+  "bag-upload": {
+    "styles": ["ecommerce"]
+  },
+  "ban": {
+    "styles": ["basic"]
+  },
+  "banknote": {
+    "styles": ["ecommerce"]
+  },
+  "banknotes": {
+    "styles": ["ecommerce"]
+  },
+  "basket": {
+    "styles": ["ecommerce"]
+  },
+  "basket-check": {
+    "styles": ["ecommerce"]
+  },
+  "basket-cloud": {
+    "styles": ["ecommerce"]
+  },
+  "basket-download": {
+    "styles": ["ecommerce"]
+  },
+  "basket-minus": {
+    "styles": ["ecommerce"]
+  },
+  "basket-plus": {
+    "styles": ["ecommerce"]
+  },
+  "basket-refresh": {
+    "styles": ["ecommerce"]
+  },
+  "basket-remove": {
+    "styles": ["ecommerce"]
+  },
+  "basket-search": {
+    "styles": ["ecommerce"]
+  },
+  "basket-upload": {
+    "styles": ["ecommerce"]
+  },
+  "bath": {
+    "styles": ["ecommerce"]
+  },
+  "battery-charge": {
+    "styles": ["basic"]
+  },
+  "battery-empty": {
+    "styles": ["basic"]
+  },
+  "battery-full": {
+    "styles": ["basic"]
+  },
+  "battery-half": {
+    "styles": ["basic"]
+  },
+  "beginning-button": {
+    "styles": ["music"]
+  },
+  "bell": {
+    "styles": ["music"]
+  },
+  "bolt": {
+    "styles": ["basic"]
+  },
+  "book": {
+    "styles": ["basic"]
+  },
+  "book-pen": {
+    "styles": ["basic"]
+  },
+  "book-pencil": {
+    "styles": ["basic"]
+  },
+  "bookmark": {
+    "styles": ["basic"]
+  },
+  "bookmark-checck": {
+    "styles": ["elaboration"]
+  },
+  "bookmark-minus": {
+    "styles": ["elaboration"]
+  },
+  "bookmark-plus": {
+    "styles": ["elaboration"]
+  },
+  "bookmark-remove": {
+    "styles": ["elaboration"]
+  },
+  "box-oval": {
+    "styles": ["software"]
+  },
+  "box-polygon": {
+    "styles": ["software"]
+  },
+  "box-rectangle": {
+    "styles": ["software"]
+  },
+  "box-roundedrectangle": {
+    "styles": ["software"]
+  },
+  "briefcase-check": {
+    "styles": ["elaboration"]
+  },
+  "briefcase-download": {
+    "styles": ["elaboration"]
+  },
+  "briefcase-flagged": {
+    "styles": ["elaboration"]
+  },
+  "briefcase-minus": {
+    "styles": ["elaboration"]
+  },
+  "briefcase-plus": {
+    "styles": ["elaboration"]
+  },
+  "briefcase-refresh": {
+    "styles": ["elaboration"]
+  },
+  "briefcase-remove": {
+    "styles": ["elaboration"]
+  },
+  "briefcase-search": {
+    "styles": ["elaboration"]
+  },
+  "briefcase-star": {
+    "styles": ["elaboration"]
+  },
+  "briefcase-upload": {
+    "styles": ["elaboration"]
+  },
+  "browser-check": {
+    "styles": ["elaboration"]
+  },
+  "browser-download": {
+    "styles": ["elaboration"]
+  },
+  "browser-minus": {
+    "styles": ["elaboration"]
+  },
+  "browser-plus": {
+    "styles": ["elaboration"]
+  },
+  "browser-refresh": {
+    "styles": ["elaboration"]
+  },
+  "browser-remove": {
+    "styles": ["elaboration"]
+  },
+  "browser-search": {
+    "styles": ["elaboration"]
+  },
+  "browser-star": {
+    "styles": ["elaboration"]
+  },
+  "browser-upload": {
+    "styles": ["elaboration"]
+  },
+  "button-down": {
+    "styles": ["arrows"]
+  },
+  "button-off": {
+    "styles": ["arrows"]
+  },
+  "button-on": {
+    "styles": ["arrows"]
+  },
+  "button-up": {
+    "styles": ["arrows"]
+  },
+  "calculator": {
+    "styles": ["basic"]
+  },
+  "calendar": {
+    "styles": ["basic"]
+  },
+  "calendar-check": {
+    "styles": ["elaboration"]
+  },
+  "calendar-cloud": {
+    "styles": ["elaboration"]
+  },
+  "calendar-download": {
+    "styles": ["elaboration"]
+  },
+  "calendar-empty": {
+    "styles": ["elaboration"]
+  },
+  "calendar-flagged": {
+    "styles": ["elaboration"]
+  },
+  "calendar-heart": {
+    "styles": ["elaboration"]
+  },
+  "calendar-minus": {
+    "styles": ["elaboration"]
+  },
+  "calendar-next": {
+    "styles": ["elaboration"]
+  },
+  "calendar-noaccess": {
+    "styles": ["elaboration"]
+  },
+  "calendar-pencil": {
+    "styles": ["elaboration"]
+  },
+  "calendar-plus": {
+    "styles": ["elaboration"]
+  },
+  "calendar-previous": {
+    "styles": ["elaboration"]
+  },
+  "calendar-refresh": {
+    "styles": ["elaboration"]
+  },
+  "calendar-remove": {
+    "styles": ["elaboration"]
+  },
+  "calendar-search": {
+    "styles": ["elaboration"]
+  },
+  "calendar-star": {
+    "styles": ["elaboration"]
+  },
+  "calendar-upload": {
+    "styles": ["elaboration"]
+  },
+  "cancer": {
+    "styles": ["weather"]
+  },
+  "capricorn": {
+    "styles": ["weather"]
+  },
+  "cards-diamonds": {
+    "styles": ["basic"]
+  },
+  "cards-hearts": {
+    "styles": ["basic"]
+  },
+  "cart": {
+    "styles": ["ecommerce"]
+  },
+  "cart-check": {
+    "styles": ["ecommerce"]
+  },
+  "cart-cloud": {
+    "styles": ["ecommerce"]
+  },
+  "cart-content": {
+    "styles": ["ecommerce"]
+  },
+  "cart-download": {
+    "styles": ["ecommerce"]
+  },
+  "cart-minus": {
+    "styles": ["ecommerce"]
+  },
+  "cart-plus": {
+    "styles": ["ecommerce"]
+  },
+  "cart-refresh": {
+    "styles": ["ecommerce"]
+  },
+  "cart-remove": {
+    "styles": ["ecommerce"]
+  },
+  "cart-search": {
+    "styles": ["ecommerce"]
+  },
+  "cart-upload": {
+    "styles": ["ecommerce"]
+  },
+  "case": {
+    "styles": ["basic"]
+  },
+  "cd": {
+    "styles": ["music"]
+  },
+  "cent": {
+    "styles": ["ecommerce"]
+  },
+  "character": {
+    "styles": ["software"]
+  },
+  "check": {
+    "styles": ["arrows"]
+  },
+  "chronometer": {
+    "styles": ["basic"]
+  },
+  "circle-check": {
+    "styles": ["arrows"]
+  },
+  "circle-down": {
+    "styles": ["arrows"]
+  },
+  "circle-downleft": {
+    "styles": ["arrows"]
+  },
+  "circle-downright": {
+    "styles": ["arrows"]
+  },
+  "circle-left": {
+    "styles": ["arrows"]
+  },
+  "circle-minus": {
+    "styles": ["arrows"]
+  },
+  "circle-plus": {
+    "styles": ["arrows"]
+  },
+  "circle-remove": {
+    "styles": ["arrows"]
+  },
+  "circle-right": {
+    "styles": ["arrows"]
+  },
+  "circle-up": {
+    "styles": ["arrows"]
+  },
+  "circle-upleft": {
+    "styles": ["arrows"]
+  },
+  "circle-upright": {
+    "styles": ["arrows"]
+  },
+  "clessidre": {
+    "styles": ["basic"]
+  },
+  "clock": {
+    "styles": ["basic"]
+  },
+  "clockwise": {
+    "styles": ["basic", "arrows"]
+  },
+  "clockwise-dashed": {
+    "styles": ["arrows"]
+  },
+  "cloud": {
+    "styles": ["basic", "weather"]
+  },
+  "cloud-check": {
+    "styles": ["elaboration"]
+  },
+  "cloud-download": {
+    "styles": ["elaboration"]
+  },
+  "cloud-drop": {
+    "styles": ["weather"]
+  },
+  "cloud-lightning": {
+    "styles": ["weather"]
+  },
+  "cloud-minus": {
+    "styles": ["elaboration"]
+  },
+  "cloud-noaccess": {
+    "styles": ["elaboration"]
+  },
+  "cloud-plus": {
+    "styles": ["elaboration"]
+  },
+  "cloud-refresh": {
+    "styles": ["elaboration"]
+  },
+  "cloud-remove": {
+    "styles": ["elaboration"]
+  },
+  "cloud-search": {
+    "styles": ["elaboration"]
+  },
+  "cloud-snowflake": {
+    "styles": ["weather"]
+  },
+  "cloud-upload": {
+    "styles": ["elaboration"]
+  },
+  "clubs": {
+    "styles": ["basic"]
+  },
+  "colon": {
+    "styles": ["ecommerce"]
+  },
+  "compass": {
+    "styles": ["basic"]
+  },
+  "compress": {
+    "styles": ["arrows"]
+  },
+  "creditcard": {
+    "styles": ["ecommerce"]
+  },
+  "crop": {
+    "styles": ["software"]
+  },
+  "cup": {
+    "styles": ["basic"]
+  },
+  "deny": {
+    "styles": ["arrows"]
+  },
+  "diagonal": {
+    "styles": ["arrows"]
+  },
+  "diagonal2": {
+    "styles": ["arrows"]
+  },
+  "diamond": {
+    "styles": ["ecommerce"]
+  },
+  "diamonds": {
+    "styles": ["basic"]
+  },
+  "diapason": {
+    "styles": ["music"]
+  },
+  "display": {
+    "styles": ["basic"]
+  },
+  "document-check": {
+    "styles": ["elaboration"]
+  },
+  "document-cloud": {
+    "styles": ["elaboration"]
+  },
+  "document-download": {
+    "styles": ["elaboration"]
+  },
+  "document-flagged": {
+    "styles": ["elaboration"]
+  },
+  "document-graph": {
+    "styles": ["elaboration"]
+  },
+  "document-heart": {
+    "styles": ["elaboration"]
+  },
+  "document-minus": {
+    "styles": ["elaboration"]
+  },
+  "document-next": {
+    "styles": ["elaboration"]
+  },
+  "document-noaccess": {
+    "styles": ["elaboration"]
+  },
+  "document-note": {
+    "styles": ["elaboration"]
+  },
+  "document-pencil": {
+    "styles": ["elaboration"]
+  },
+  "document-picture": {
+    "styles": ["elaboration"]
+  },
+  "document-plus": {
+    "styles": ["elaboration"]
+  },
+  "document-previous": {
+    "styles": ["elaboration"]
+  },
+  "document-refresh": {
+    "styles": ["elaboration"]
+  },
+  "document-remove": {
+    "styles": ["elaboration"]
+  },
+  "document-search": {
+    "styles": ["elaboration"]
+  },
+  "document-star": {
+    "styles": ["elaboration"]
+  },
+  "document-upload": {
+    "styles": ["elaboration"]
+  },
+  "dollar": {
+    "styles": ["ecommerce"]
+  },
+  "down": {
+    "styles": ["arrows"]
+  },
+  "down-double-34": {
+    "styles": ["arrows"]
+  },
+  "downleft": {
+    "styles": ["arrows"]
+  },
+  "download": {
+    "styles": ["basic"]
+  },
+  "downpour-fullmoon": {
+    "styles": ["weather"]
+  },
+  "downpour-halfmoon": {
+    "styles": ["weather"]
+  },
+  "downpour-sun": {
+    "styles": ["weather"]
+  },
+  "downright": {
+    "styles": ["arrows"]
+  },
+  "drag-down": {
+    "styles": ["arrows"]
+  },
+  "drag-down-dashed": {
+    "styles": ["arrows"]
+  },
+  "drag-horiz": {
+    "styles": ["arrows"]
+  },
+  "drag-left": {
+    "styles": ["arrows"]
+  },
+  "drag-left-dashed": {
+    "styles": ["arrows"]
+  },
+  "drag-right": {
+    "styles": ["arrows"]
+  },
+  "drag-right-dashed": {
+    "styles": ["arrows"]
+  },
+  "drag-up": {
+    "styles": ["arrows"]
+  },
+  "drag-up-dashed": {
+    "styles": ["arrows"]
+  },
+  "drag-vert": {
+    "styles": ["arrows"]
+  },
+  "drop": {
+    "styles": ["weather"]
+  },
+  "eject-button": {
+    "styles": ["music"]
+  },
+  "end-button": {
+    "styles": ["music"]
+  },
+  "euro": {
+    "styles": ["ecommerce"]
+  },
+  "exclamation": {
+    "styles": ["basic", "arrows"]
+  },
+  "expand": {
+    "styles": ["arrows"]
+  },
+  "expand-diagonal1": {
+    "styles": ["arrows"]
+  },
+  "expand-horizontal1": {
+    "styles": ["arrows"]
+  },
+  "expand-vertical1": {
+    "styles": ["arrows"]
+  },
+  "eye": {
+    "styles": ["basic"]
+  },
+  "eye-closed": {
+    "styles": ["basic"]
+  },
+  "eyedropper": {
+    "styles": ["software"]
+  },
+  "fastforward-button": {
+    "styles": ["music"]
+  },
+  "female": {
+    "styles": ["basic"]
+  },
+  "first-quarter": {
+    "styles": ["weather"]
+  },
+  "fit-horizontal": {
+    "styles": ["arrows"]
+  },
+  "fit-vertical": {
+    "styles": ["arrows"]
+  },
+  "flag1": {
+    "styles": ["basic"]
+  },
+  "flag2": {
+    "styles": ["basic"]
+  },
+  "floppydisk": {
+    "styles": ["basic"]
+  },
+  "fog": {
+    "styles": ["weather"]
+  },
+  "fog-fullmoon": {
+    "styles": ["weather"]
+  },
+  "fog-halfmoon": {
+    "styles": ["weather"]
+  },
+  "fog-sun": {
+    "styles": ["weather"]
+  },
+  "folder": {
+    "styles": ["basic"]
+  },
+  "folder-check": {
+    "styles": ["elaboration"]
+  },
+  "folder-cloud": {
+    "styles": ["elaboration"]
+  },
+  "folder-document": {
+    "styles": ["elaboration"]
+  },
+  "folder-download": {
+    "styles": ["elaboration"]
+  },
+  "folder-flagged": {
+    "styles": ["elaboration"]
+  },
+  "folder-graph": {
+    "styles": ["elaboration"]
+  },
+  "folder-heart": {
+    "styles": ["elaboration"]
+  },
+  "folder-minus": {
+    "styles": ["elaboration"]
+  },
+  "folder-multiple": {
+    "styles": ["basic"]
+  },
+  "folder-next": {
+    "styles": ["elaboration"]
+  },
+  "folder-noaccess": {
+    "styles": ["elaboration"]
+  },
+  "folder-note": {
+    "styles": ["elaboration"]
+  },
+  "folder-pencil": {
+    "styles": ["elaboration"]
+  },
+  "folder-picture": {
+    "styles": ["elaboration"]
+  },
+  "folder-plus": {
+    "styles": ["elaboration"]
+  },
+  "folder-previous": {
+    "styles": ["elaboration"]
+  },
+  "folder-refresh": {
+    "styles": ["elaboration"]
+  },
+  "folder-remove": {
+    "styles": ["elaboration"]
+  },
+  "folder-search": {
+    "styles": ["elaboration"]
+  },
+  "folder-star": {
+    "styles": ["elaboration"]
+  },
+  "folder-upload": {
+    "styles": ["elaboration"]
+  },
+  "font-allcaps": {
+    "styles": ["software"]
+  },
+  "font-baseline-shift": {
+    "styles": ["software"]
+  },
+  "font-horizontal-scale": {
+    "styles": ["software"]
+  },
+  "font-kerning": {
+    "styles": ["software"]
+  },
+  "font-leading": {
+    "styles": ["software"]
+  },
+  "font-size": {
+    "styles": ["software"]
+  },
+  "font-smallcapital": {
+    "styles": ["software"]
+  },
+  "font-smallcaps": {
+    "styles": ["software"]
+  },
+  "font-strikethrough": {
+    "styles": ["software"]
+  },
+  "font-tracking": {
+    "styles": ["software"]
+  },
+  "font-underline": {
+    "styles": ["software"]
+  },
+  "font-vertical-scale": {
+    "styles": ["software"]
+  },
+  "franc": {
+    "styles": ["ecommerce"]
+  },
+  "fullmoon": {
+    "styles": ["weather"]
+  },
+  "gear": {
+    "styles": ["basic"]
+  },
+  "gemini": {
+    "styles": ["weather"]
+  },
+  "geolocalize-01": {
+    "styles": ["basic"]
+  },
+  "geolocalize-05": {
+    "styles": ["basic"]
+  },
+  "gift": {
+    "styles": ["ecommerce"]
+  },
+  "glide": {
+    "styles": ["arrows"]
+  },
+  "glide-horizontal": {
+    "styles": ["arrows"]
+  },
+  "glide-vertical": {
+    "styles": ["arrows"]
+  },
+  "globe": {
+    "styles": ["basic"]
+  },
+  "graph1": {
+    "styles": ["ecommerce"]
+  },
+  "graph2": {
+    "styles": ["ecommerce"]
+  },
+  "graph3": {
+    "styles": ["ecommerce"]
+  },
+  "graph-decrease": {
+    "styles": ["ecommerce"]
+  },
+  "graph-increase": {
+    "styles": ["ecommerce"]
+  },
+  "guarani": {
+    "styles": ["ecommerce"]
+  },
+  "gunsight": {
+    "styles": ["basic"]
+  },
+  "hail": {
+    "styles": ["weather"]
+  },
+  "hail-fullmoon": {
+    "styles": ["weather"]
+  },
+  "hail-halfmoon": {
+    "styles": ["weather"]
+  },
+  "hail-sun": {
+    "styles": ["weather"]
+  },
+  "hamburger1": {
+    "styles": ["arrows"]
+  },
+  "hamburger2": {
+    "styles": ["arrows"]
+  },
+  "hammer": {
+    "styles": ["basic"]
+  },
+  "headphones": {
+    "styles": ["music"]
+  },
+  "headset": {
+    "styles": ["basic"]
+  },
+  "heart": {
+    "styles": ["basic"]
+  },
+  "heart-broken": {
+    "styles": ["basic"]
+  },
+  "helm": {
+    "styles": ["basic"]
+  },
+  "home": {
+    "styles": ["basic"]
+  },
+  "horizontal": {
+    "styles": ["arrows"]
+  },
+  "horizontal-align-center": {
+    "styles": ["software"]
+  },
+  "horizontal-align-left": {
+    "styles": ["software"]
+  },
+  "horizontal-align-right": {
+    "styles": ["software"]
+  },
+  "horizontal-distribute-center": {
+    "styles": ["software"]
+  },
+  "horizontal-distribute-left": {
+    "styles": ["software"]
+  },
+  "horizontal-distribute-right": {
+    "styles": ["software"]
+  },
+  "indent-firstline": {
+    "styles": ["software"]
+  },
+  "indent-left": {
+    "styles": ["software"]
+  },
+  "indent-right": {
+    "styles": ["software"]
+  },
+  "info": {
+    "styles": ["basic", "arrows"]
+  },
+  "ipod": {
+    "styles": ["basic", "music"]
+  },
+  "joypad": {
+    "styles": ["basic"]
+  },
+  "key": {
+    "styles": ["basic"]
+  },
+  "keyboard": {
+    "styles": ["basic"]
+  },
+  "keyboard-alt": {
+    "styles": ["arrows"]
+  },
+  "keyboard-cmd-29": {
+    "styles": ["arrows"]
+  },
+  "keyboard-delete": {
+    "styles": ["arrows"]
+  },
+  "keyboard-down-28": {
+    "styles": ["arrows"]
+  },
+  "keyboard-left": {
+    "styles": ["arrows"]
+  },
+  "keyboard-return": {
+    "styles": ["arrows"]
+  },
+  "keyboard-right": {
+    "styles": ["arrows"]
+  },
+  "keyboard-shift": {
+    "styles": ["arrows"]
+  },
+  "keyboard-tab": {
+    "styles": ["arrows"]
+  },
+  "keyboard-up": {
+    "styles": ["arrows"]
+  },
+  "kips": {
+    "styles": ["ecommerce"]
+  },
+  "laptop": {
+    "styles": ["basic"]
+  },
+  "lasso": {
+    "styles": ["software"]
+  },
+  "last-quarter": {
+    "styles": ["weather"]
+  },
+  "layers1": {
+    "styles": ["software"]
+  },
+  "layers2": {
+    "styles": ["software"]
+  },
+  "layout": {
+    "styles": ["software"]
+  },
+  "layout-8boxes": {
+    "styles": ["software"]
+  },
+  "layout-2columns": {
+    "styles": ["software"]
+  },
+  "layout-3columns": {
+    "styles": ["software"]
+  },
+  "layout-4boxes": {
+    "styles": ["software"]
+  },
+  "layout-4columns": {
+    "styles": ["software"]
+  },
+  "layout-4lines": {
+    "styles": ["software"]
+  },
+  "layout-header": {
+    "styles": ["software"]
+  },
+  "layout-header-2columns": {
+    "styles": ["software"]
+  },
+  "layout-header-3columns": {
+    "styles": ["software"]
+  },
+  "layout-header-4boxes": {
+    "styles": ["software"]
+  },
+  "layout-header-4columns": {
+    "styles": ["software"]
+  },
+  "layout-header-complex": {
+    "styles": ["software"]
+  },
+  "layout-header-complex2": {
+    "styles": ["software"]
+  },
+  "layout-header-complex3": {
+    "styles": ["software"]
+  },
+  "layout-header-complex4": {
+    "styles": ["software"]
+  },
+  "layout-header-sideleft": {
+    "styles": ["software"]
+  },
+  "layout-header-sideright": {
+    "styles": ["software"]
+  },
+  "layout-sidebar-left": {
+    "styles": ["software"]
+  },
+  "layout-sidebar-right": {
+    "styles": ["software"]
+  },
+  "left": {
+    "styles": ["arrows"]
+  },
+  "left-double-32": {
+    "styles": ["arrows"]
+  },
+  "leo": {
+    "styles": ["weather"]
+  },
+  "libra": {
+    "styles": ["weather"]
+  },
+  "life-buoy": {
+    "styles": ["basic"]
+  },
+  "lightbulb": {
+    "styles": ["basic"]
+  },
+  "lightning": {
+    "styles": ["weather"]
+  },
+  "link": {
+    "styles": ["basic"]
+  },
+  "lira": {
+    "styles": ["ecommerce"]
+  },
+  "lock": {
+    "styles": ["basic"]
+  },
+  "lock-open": {
+    "styles": ["basic"]
+  },
+  "loudspeaker": {
+    "styles": ["music"]
+  },
+  "magic-mouse": {
+    "styles": ["basic"]
+  },
+  "magnete": {
+    "styles": ["software"]
+  },
+  "magnifier": {
+    "styles": ["basic"]
+  },
+  "magnifier-minus": {
+    "styles": ["basic"]
+  },
+  "magnifier-plus": {
+    "styles": ["basic"]
+  },
+  "mail": {
+    "styles": ["basic"]
+  },
+  "mail-check": {
+    "styles": ["elaboration"]
+  },
+  "mail-cloud": {
+    "styles": ["elaboration"]
+  },
+  "mail-document": {
+    "styles": ["elaboration"]
+  },
+  "mail-download": {
+    "styles": ["elaboration"]
+  },
+  "mail-flagged": {
+    "styles": ["elaboration"]
+  },
+  "mail-heart": {
+    "styles": ["elaboration"]
+  },
+  "mail-multiple": {
+    "styles": ["basic"]
+  },
+  "mail-next": {
+    "styles": ["elaboration"]
+  },
+  "mail-noaccess": {
+    "styles": ["elaboration"]
+  },
+  "mail-note": {
+    "styles": ["elaboration"]
+  },
+  "mail-open": {
+    "styles": ["basic"]
+  },
+  "mail-open-text": {
+    "styles": ["basic"]
+  },
+  "mail-pencil": {
+    "styles": ["elaboration"]
+  },
+  "mail-picture": {
+    "styles": ["elaboration"]
+  },
+  "mail-previous": {
+    "styles": ["elaboration"]
+  },
+  "mail-refresh": {
+    "styles": ["elaboration"]
+  },
+  "mail-remove": {
+    "styles": ["elaboration"]
+  },
+  "mail-search": {
+    "styles": ["elaboration"]
+  },
+  "mail-star": {
+    "styles": ["elaboration"]
+  },
+  "mail-upload": {
+    "styles": ["elaboration"]
+  },
+  "male": {
+    "styles": ["basic"]
+  },
+  "map": {
+    "styles": ["basic"]
+  },
+  "megaphone": {
+    "styles": ["ecommerce"]
+  },
+  "message": {
+    "styles": ["basic"]
+  },
+  "message-check": {
+    "styles": ["elaboration"]
+  },
+  "message-dots": {
+    "styles": ["elaboration"]
+  },
+  "message-happy": {
+    "styles": ["elaboration"]
+  },
+  "message-heart": {
+    "styles": ["elaboration"]
+  },
+  "message-minus": {
+    "styles": ["elaboration"]
+  },
+  "message-multiple": {
+    "styles": ["basic"]
+  },
+  "message-note": {
+    "styles": ["elaboration"]
+  },
+  "message-plus": {
+    "styles": ["elaboration"]
+  },
+  "message-refresh": {
+    "styles": ["elaboration"]
+  },
+  "message-remove": {
+    "styles": ["elaboration"]
+  },
+  "message-sad": {
+    "styles": ["elaboration"]
+  },
+  "message-txt": {
+    "styles": ["basic"]
+  },
+  "microphone": {
+    "styles": ["music"]
+  },
+  "microphone-old": {
+    "styles": ["music"]
+  },
+  "minus": {
+    "styles": ["arrows"]
+  },
+  "mistyrain": {
+    "styles": ["weather"]
+  },
+  "mistyrain-fullmoon": {
+    "styles": ["weather"]
+  },
+  "mistyrain-halfmoon": {
+    "styles": ["weather"]
+  },
+  "mistyrain-sun": {
+    "styles": ["weather"]
+  },
+  "mixer": {
+    "styles": ["music"]
+  },
+  "mixer2": {
+    "styles": ["basic"]
+  },
+  "money": {
+    "styles": ["ecommerce"]
+  },
+  "moon": {
+    "styles": ["weather"]
+  },
+  "moondown-full": {
+    "styles": ["weather"]
+  },
+  "moondown-half": {
+    "styles": ["weather"]
+  },
+  "moonset-full": {
+    "styles": ["weather"]
+  },
+  "moonset-half": {
+    "styles": ["weather"]
+  },
+  "mouse": {
+    "styles": ["basic"]
+  },
+  "move": {
+    "styles": ["arrows"]
+  },
+  "move2": {
+    "styles": ["arrows", "weather"]
+  },
+  "move-bottom": {
+    "styles": ["arrows"]
+  },
+  "move-left": {
+    "styles": ["arrows"]
+  },
+  "move-right": {
+    "styles": ["arrows"]
+  },
+  "move-top": {
+    "styles": ["arrows"]
+  },
+  "mute": {
+    "styles": ["music"]
+  },
+  "naira": {
+    "styles": ["ecommerce"]
+  },
+  "newmoon": {
+    "styles": ["weather"]
+  },
+  "note-multiple": {
+    "styles": ["music"]
+  },
+  "note-single": {
+    "styles": ["music"]
+  },
+  "notebook": {
+    "styles": ["basic"]
+  },
+  "notebook-pen": {
+    "styles": ["basic"]
+  },
+  "notebook-pencil": {
+    "styles": ["basic"]
+  },
+  "pages": {
+    "styles": ["software"]
+  },
+  "paintbrush": {
+    "styles": ["software"]
+  },
+  "paintbucket": {
+    "styles": ["software"]
+  },
+  "paintroller": {
+    "styles": ["software"]
+  },
+  "paperplane": {
+    "styles": ["basic"]
+  },
+  "paragraph": {
+    "styles": ["software"]
+  },
+  "paragraph-align-left": {
+    "styles": ["software"]
+  },
+  "paragraph-align-right": {
+    "styles": ["software"]
+  },
+  "paragraph-center": {
+    "styles": ["software"]
+  },
+  "paragraph-justify-all": {
+    "styles": ["software"]
+  },
+  "paragraph-justify-center": {
+    "styles": ["software"]
+  },
+  "paragraph-justify-left": {
+    "styles": ["software"]
+  },
+  "paragraph-justify-right": {
+    "styles": ["software"]
+  },
+  "paragraph-space-after": {
+    "styles": ["software"]
+  },
+  "paragraph-space-before": {
+    "styles": ["software"]
+  },
+  "pathfinder-exclude": {
+    "styles": ["software"]
+  },
+  "pathfinder-intersect": {
+    "styles": ["software"]
+  },
+  "pathfinder-subtract": {
+    "styles": ["software"]
+  },
+  "pathfinder-unite": {
+    "styles": ["software"]
+  },
+  "pause-button": {
+    "styles": ["music"]
+  },
+  "pen": {
+    "styles": ["software"]
+  },
+  "pen-add": {
+    "styles": ["software"]
+  },
+  "pen-remove": {
+    "styles": ["software"]
+  },
+  "pencil": {
+    "styles": ["software"]
+  },
+  "pencil-ruler": {
+    "styles": ["basic"]
+  },
+  "pencil-ruler-pen": {
+    "styles": ["basic"]
+  },
+  "pesos": {
+    "styles": ["ecommerce"]
+  },
+  "photo": {
+    "styles": ["basic"]
+  },
+  "picture": {
+    "styles": ["basic"]
+  },
+  "picture-multiple": {
+    "styles": ["basic"]
+  },
+  "pin1": {
+    "styles": ["basic"]
+  },
+  "pin2": {
+    "styles": ["basic"]
+  },
+  "pisces": {
+    "styles": ["weather"]
+  },
+  "play-button": {
+    "styles": ["music"]
+  },
+  "playlist": {
+    "styles": ["music"]
+  },
+  "plus": {
+    "styles": ["arrows"]
+  },
+  "polygonallasso": {
+    "styles": ["software"]
+  },
+  "postcard": {
+    "styles": ["basic"]
+  },
+  "postcard-multiple": {
+    "styles": ["basic"]
+  },
+  "pound": {
+    "styles": ["ecommerce"]
+  },
+  "printer": {
+    "styles": ["basic"]
+  },
+  "question": {
+    "styles": ["basic", "arrows"]
+  },
+  "radio-ghettoblaster": {
+    "styles": ["music"]
+  },
+  "radio-portable": {
+    "styles": ["music"]
+  },
+  "rain": {
+    "styles": ["weather"]
+  },
+  "rain-fullmoon": {
+    "styles": ["weather"]
+  },
+  "rain-halfmoon": {
+    "styles": ["weather"]
+  },
+  "rain-sun": {
+    "styles": ["weather"]
+  },
+  "receipt": {
+    "styles": ["ecommerce"]
+  },
+  "receipt-bath": {
+    "styles": ["ecommerce"]
+  },
+  "receipt-cent": {
+    "styles": ["ecommerce"]
+  },
+  "receipt-dollar": {
+    "styles": ["ecommerce"]
+  },
+  "receipt-euro": {
+    "styles": ["ecommerce"]
+  },
+  "receipt-franc": {
+    "styles": ["ecommerce"]
+  },
+  "receipt-guarani": {
+    "styles": ["ecommerce"]
+  },
+  "receipt-kips": {
+    "styles": ["ecommerce"]
+  },
+  "receipt-lira": {
+    "styles": ["ecommerce"]
+  },
+  "receipt-naira": {
+    "styles": ["ecommerce"]
+  },
+  "receipt-pesos": {
+    "styles": ["ecommerce"]
+  },
+  "receipt-pound": {
+    "styles": ["ecommerce"]
+  },
+  "receipt-rublo": {
+    "styles": ["ecommerce"]
+  },
+  "receipt-rupee": {
+    "styles": ["ecommerce"]
+  },
+  "receipt-tugrik": {
+    "styles": ["ecommerce"]
+  },
+  "receipt-won": {
+    "styles": ["ecommerce"]
+  },
+  "receipt-yen": {
+    "styles": ["ecommerce"]
+  },
+  "receipt-yen2": {
+    "styles": ["ecommerce"]
+  },
+  "recept-colon": {
+    "styles": ["ecommerce"]
+  },
+  "record": {
+    "styles": ["music"]
+  },
+  "recordplayer": {
+    "styles": ["music"]
+  },
+  "reflect-horizontal": {
+    "styles": ["software"]
+  },
+  "reflect-vertical": {
+    "styles": ["software"]
+  },
+  "remove": {
+    "styles": ["arrows"]
+  },
+  "remove-vectorpoint": {
+    "styles": ["software"]
+  },
+  "repeat-button": {
+    "styles": ["music"]
+  },
+  "rewind-button": {
+    "styles": ["music"]
+  },
+  "right": {
+    "styles": ["arrows"]
+  },
+  "right-double-31": {
+    "styles": ["arrows"]
+  },
+  "rotate": {
+    "styles": ["arrows"]
+  },
+  "rotate-anti": {
+    "styles": ["arrows"]
+  },
+  "rotate-anti-dashed": {
+    "styles": ["arrows"]
+  },
+  "rotate-dashed": {
+    "styles": ["arrows"]
+  },
+  "rss": {
+    "styles": ["basic"]
+  },
+  "rublo": {
+    "styles": ["ecommerce"]
+  },
+  "rupee": {
+    "styles": ["ecommerce"]
+  },
+  "safe": {
+    "styles": ["ecommerce"]
+  },
+  "sagittarius": {
+    "styles": ["weather"]
+  },
+  "sale": {
+    "styles": ["ecommerce"]
+  },
+  "sales": {
+    "styles": ["ecommerce"]
+  },
+  "scale-expand": {
+    "styles": ["software"]
+  },
+  "scale-reduce": {
+    "styles": ["software"]
+  },
+  "scorpio": {
+    "styles": ["weather"]
+  },
+  "selection-oval": {
+    "styles": ["software"]
+  },
+  "selection-polygon": {
+    "styles": ["software"]
+  },
+  "selection-rectangle": {
+    "styles": ["software"]
+  },
+  "selection-roundedrectangle": {
+    "styles": ["software"]
+  },
+  "server": {
+    "styles": ["basic"]
+  },
+  "server2": {
+    "styles": ["basic"]
+  },
+  "server-cloud": {
+    "styles": ["basic"]
+  },
+  "server-download": {
+    "styles": ["basic"]
+  },
+  "server-upload": {
+    "styles": ["basic"]
+  },
+  "settings": {
+    "styles": ["basic"]
+  },
+  "shape-oval": {
+    "styles": ["software"]
+  },
+  "shape-polygon": {
+    "styles": ["software"]
+  },
+  "shape-rectangle": {
+    "styles": ["software"]
+  },
+  "shape-roundedrectangle": {
+    "styles": ["software"]
+  },
+  "share": {
+    "styles": ["basic"]
+  },
+  "sheet": {
+    "styles": ["basic"]
+  },
+  "sheet-multiple": {
+    "styles": ["basic"]
+  },
+  "sheet-pen": {
+    "styles": ["basic"]
+  },
+  "sheet-pencil": {
+    "styles": ["basic"]
+  },
+  "sheet-txt": {
+    "styles": ["basic"]
+  },
+  "shrink": {
+    "styles": ["arrows"]
+  },
+  "shrink-diagonal1": {
+    "styles": ["arrows"]
+  },
+  "shrink-diagonal2": {
+    "styles": ["arrows"]
+  },
+  "shrink-horizontal1": {
+    "styles": ["arrows"]
+  },
+  "shrink-horizontal2": {
+    "styles": ["arrows"]
+  },
+  "shrink-vertical1": {
+    "styles": ["arrows"]
+  },
+  "shrink-vertical2": {
+    "styles": ["arrows"]
+  },
+  "shuffle-button": {
+    "styles": ["music"]
+  },
+  "sign-down": {
+    "styles": ["arrows"]
+  },
+  "sign-left": {
+    "styles": ["arrows"]
+  },
+  "sign-right": {
+    "styles": ["arrows"]
+  },
+  "sign-up": {
+    "styles": ["arrows"]
+  },
+  "signs": {
+    "styles": ["basic"]
+  },
+  "slice": {
+    "styles": ["software"]
+  },
+  "slide-down1": {
+    "styles": ["arrows"]
+  },
+  "slide-down2": {
+    "styles": ["arrows"]
+  },
+  "slide-left1": {
+    "styles": ["arrows"]
+  },
+  "slide-left2": {
+    "styles": ["arrows"]
+  },
+  "slide-right1": {
+    "styles": ["arrows"]
+  },
+  "slide-right2": {
+    "styles": ["arrows"]
+  },
+  "slide-up1": {
+    "styles": ["arrows"]
+  },
+  "slide-up2": {
+    "styles": ["arrows"]
+  },
+  "slim-down": {
+    "styles": ["arrows"]
+  },
+  "slim-down-dashed": {
+    "styles": ["arrows"]
+  },
+  "slim-left": {
+    "styles": ["arrows"]
+  },
+  "slim-left-dashed": {
+    "styles": ["arrows"]
+  },
+  "slim-right": {
+    "styles": ["arrows"]
+  },
+  "slim-right-dashed": {
+    "styles": ["arrows"]
+  },
+  "slim-up": {
+    "styles": ["arrows"]
+  },
+  "slim-up-dashed": {
+    "styles": ["arrows"]
+  },
+  "smartphone": {
+    "styles": ["basic"]
+  },
+  "smartphone-cloud": {
+    "styles": ["elaboration"]
+  },
+  "smartphone-heart": {
+    "styles": ["elaboration"]
+  },
+  "smartphone-noaccess": {
+    "styles": ["elaboration"]
+  },
+  "smartphone-note": {
+    "styles": ["elaboration"]
+  },
+  "smartphone-pencil": {
+    "styles": ["elaboration"]
+  },
+  "smartphone-picture": {
+    "styles": ["elaboration"]
+  },
+  "smartphone-refresh": {
+    "styles": ["elaboration"]
+  },
+  "smartphone-search": {
+    "styles": ["elaboration"]
+  },
+  "snow": {
+    "styles": ["weather"]
+  },
+  "snow-fullmoon": {
+    "styles": ["weather"]
+  },
+  "snow-halfmoon": {
+    "styles": ["weather"]
+  },
+  "snow-sun": {
+    "styles": ["weather"]
+  },
+  "snowflake": {
+    "styles": ["weather"]
+  },
+  "spades": {
+    "styles": ["basic"]
+  },
+  "spread": {
+    "styles": ["basic"]
+  },
+  "spread-bookmark": {
+    "styles": ["basic"]
+  },
+  "spread-text": {
+    "styles": ["basic"]
+  },
+  "spread-text-bookmark": {
+    "styles": ["basic"]
+  },
+  "square-check": {
+    "styles": ["arrows"]
+  },
+  "square-down": {
+    "styles": ["arrows"]
+  },
+  "square-downleft": {
+    "styles": ["arrows"]
+  },
+  "square-downright": {
+    "styles": ["arrows"]
+  },
+  "square-left": {
+    "styles": ["arrows"]
+  },
+  "square-minus": {
+    "styles": ["arrows"]
+  },
+  "square-plus": {
+    "styles": ["arrows"]
+  },
+  "square-remove": {
+    "styles": ["arrows"]
+  },
+  "square-right": {
+    "styles": ["arrows"]
+  },
+  "square-up": {
+    "styles": ["arrows"]
+  },
+  "square-upleft": {
+    "styles": ["arrows"]
+  },
+  "square-upright": {
+    "styles": ["arrows"]
+  },
+  "squares": {
+    "styles": ["arrows"]
+  },
+  "star": {
+    "styles": ["basic"]
+  },
+  "star": {
+    "styles": ["weather"]
+  },
+  "stop-button": {
+    "styles": ["music"]
+  },
+  "storm-11": {
+    "styles": ["weather"]
+  },
+  "storm-32": {
+    "styles": ["weather"]
+  },
+  "storm-fullmoon": {
+    "styles": ["weather"]
+  },
+  "storm-halfmoon": {
+    "styles": ["weather"]
+  },
+  "storm-sun": {
+    "styles": ["weather"]
+  },
+  "stretch-diagonal1": {
+    "styles": ["arrows"]
+  },
+  "stretch-diagonal2": {
+    "styles": ["arrows"]
+  },
+  "stretch-diagonal3": {
+    "styles": ["arrows"]
+  },
+  "stretch-diagonal4": {
+    "styles": ["arrows"]
+  },
+  "stretch-horizontal1": {
+    "styles": ["arrows"]
+  },
+  "stretch-horizontal2": {
+    "styles": ["arrows"]
+  },
+  "stretch-vertical1": {
+    "styles": ["arrows"]
+  },
+  "stretch-vertical2": {
+    "styles": ["arrows"]
+  },
+  "sun": {
+    "styles": ["weather"]
+  },
+  "sundown": {
+    "styles": ["weather"]
+  },
+  "sunset": {
+    "styles": ["weather"]
+  },
+  "switch-horizontal": {
+    "styles": ["arrows"]
+  },
+  "switch-vertical": {
+    "styles": ["arrows"]
+  },
+  "tablet": {
+    "styles": ["basic"]
+  },
+  "tablet-cloud": {
+    "styles": ["elaboration"]
+  },
+  "tablet-heart": {
+    "styles": ["elaboration"]
+  },
+  "tablet-noaccess": {
+    "styles": ["elaboration"]
+  },
+  "tablet-note": {
+    "styles": ["elaboration"]
+  },
+  "tablet-pencil": {
+    "styles": ["elaboration"]
+  },
+  "tablet-picture": {
+    "styles": ["elaboration"]
+  },
+  "tablet-refresh": {
+    "styles": ["elaboration"]
+  },
+  "tablet-search": {
+    "styles": ["elaboration"]
+  },
+  "tape": {
+    "styles": ["music"]
+  },
+  "target": {
+    "styles": ["basic"]
+  },
+  "taurus": {
+    "styles": ["weather"]
+  },
+  "tempest": {
+    "styles": ["weather"]
+  },
+  "tempest-fullmoon": {
+    "styles": ["weather"]
+  },
+  "tempest-halfmoon": {
+    "styles": ["weather"]
+  },
+  "tempest-sun": {
+    "styles": ["weather"]
+  },
+  "ticket": {
+    "styles": ["ecommerce"]
+  },
+  "todo": {
+    "styles": ["basic"]
+  },
+  "todo-pen": {
+    "styles": ["basic"]
+  },
+  "todo-pencil": {
+    "styles": ["basic"]
+  },
+  "todo-txt": {
+    "styles": ["basic"]
+  },
+  "todolist-2": {
+    "styles": ["elaboration"]
+  },
+  "todolist-check": {
+    "styles": ["elaboration"]
+  },
+  "todolist-cloud": {
+    "styles": ["elaboration"]
+  },
+  "todolist-download": {
+    "styles": ["elaboration"]
+  },
+  "todolist-flagged": {
+    "styles": ["elaboration"]
+  },
+  "todolist-minus": {
+    "styles": ["elaboration"]
+  },
+  "todolist-noaccess": {
+    "styles": ["elaboration"]
+  },
+  "todolist-pen": {
+    "styles": ["basic"]
+  },
+  "todolist-pencil": {
+    "styles": ["basic"]
+  },
+  "todolist-pencil": {
+    "styles": ["elaboration"]
+  },
+  "todolist-plus": {
+    "styles": ["elaboration"]
+  },
+  "todolist-refresh": {
+    "styles": ["elaboration"]
+  },
+  "todolist-remove": {
+    "styles": ["elaboration"]
+  },
+  "todolist-search": {
+    "styles": ["elaboration"]
+  },
+  "todolist-star": {
+    "styles": ["elaboration"]
+  },
+  "todolist-upload": {
+    "styles": ["elaboration"]
+  },
+  "transform-bezier": {
+    "styles": ["software"]
+  },
+  "trashcan": {
+    "styles": ["basic"]
+  },
+  "trashcan-full": {
+    "styles": ["basic"]
+  },
+  "trashcan-refresh": {
+    "styles": ["basic"]
+  },
+  "trashcan-remove": {
+    "styles": ["basic"]
+  },
+  "tugriks": {
+    "styles": ["ecommerce"]
+  },
+  "up": {
+    "styles": ["arrows"]
+  },
+  "up-double": {
+    "styles": ["arrows"]
+  },
+  "upload": {
+    "styles": ["basic"]
+  },
+  "upright": {
+    "styles": ["arrows"]
+  },
+  "usb": {
+    "styles": ["basic"]
+  },
+  "variable-fullmoon": {
+    "styles": ["weather"]
+  },
+  "variable-halfmoon": {
+    "styles": ["weather"]
+  },
+  "variable-sun": {
+    "styles": ["weather"]
+  },
+  "vector-box": {
+    "styles": ["software"]
+  },
+  "vector-composite": {
+    "styles": ["software"]
+  },
+  "vector-line": {
+    "styles": ["software"]
+  },
+  "vertical": {
+    "styles": ["arrows"]
+  },
+  "vertical-align-bottom": {
+    "styles": ["software"]
+  },
+  "vertical-align-center": {
+    "styles": ["software"]
+  },
+  "vertical-align-top": {
+    "styles": ["software"]
+  },
+  "vertical-distribute-bottom": {
+    "styles": ["software"]
+  },
+  "vertical-distribute-center": {
+    "styles": ["software"]
+  },
+  "vertical-distribute-top": {
+    "styles": ["software"]
+  },
+  "video": {
+    "styles": ["basic"]
+  },
+  "virgo": {
+    "styles": ["weather"]
+  },
+  "volume-down": {
+    "styles": ["music"]
+  },
+  "volume-up": {
+    "styles": ["music"]
+  },
+  "wallet": {
+    "styles": ["ecommerce"]
+  },
+  "waning-cresent": {
+    "styles": ["weather"]
+  },
+  "waning-gibbous": {
+    "styles": ["weather"]
+  },
+  "watch": {
+    "styles": ["basic"]
+  },
+  "waxing-cresent": {
+    "styles": ["weather"]
+  },
+  "waxing-gibbous": {
+    "styles": ["weather"]
+  },
+  "webpage": {
+    "styles": ["basic"]
+  },
+  "webpage-img-txt": {
+    "styles": ["basic"]
+  },
+  "webpage-multiple": {
+    "styles": ["basic"]
+  },
+  "webpage-txt": {
+    "styles": ["basic"]
+  },
+  "wind": {
+    "styles": ["weather"]
+  },
+  "wind-e": {
+    "styles": ["weather"]
+  },
+  "wind-fullmoon": {
+    "styles": ["weather"]
+  },
+  "wind-halfmoon": {
+    "styles": ["weather"]
+  },
+  "wind-n": {
+    "styles": ["weather"]
+  },
+  "wind-ne": {
+    "styles": ["weather"]
+  },
+  "wind-nw": {
+    "styles": ["weather"]
+  },
+  "wind-s": {
+    "styles": ["weather"]
+  },
+  "wind-se": {
+    "styles": ["weather"]
+  },
+  "wind-sun": {
+    "styles": ["weather"]
+  },
+  "wind-sw": {
+    "styles": ["weather"]
+  },
+  "wind-w": {
+    "styles": ["weather"]
+  },
+  "windgust": {
+    "styles": ["weather"]
+  },
+  "won": {
+    "styles": ["ecommerce"]
+  },
+  "world": {
+    "styles": ["basic"]
+  },
+  "yen": {
+    "styles": ["ecommerce"]
+  },
+  "yen2": {
+    "styles": ["ecommerce"]
+  }
+}
