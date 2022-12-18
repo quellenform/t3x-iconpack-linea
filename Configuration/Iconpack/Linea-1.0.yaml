@@ -7,7 +7,8 @@ iconpack:
   stylesEnabled: "basic,music,ecommerce,software,elaboration,arrows,weather"
 
   renderTypes:
-    _dafeult:
+
+    _default:
       basic:
         label: "Basic"
       music:
@@ -48,9 +49,27 @@ iconpack:
 
     svg:
       _default:
+        prefix: "linea-"
+      basic:
+        source: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/svgs/basic/"
+      music:
+        source: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/svgs/music/"
+      ecommerce:
+        source: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/svgs/ecommerce/"
+      software:
+        source: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/svgs/software/"
+      elaboration:
+        source: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/svgs/basic-elaboration/"
+      arrows:
+        source: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/svgs/arrows/"
+      weather:
+        source: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/svgs/weather/"
+
+    svgInline:
+      _default:
         attributes:
-          fill: "currentColor"
           class: "linea"
+          role: "img"
       basic:
         source: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/svgs/basic/"
       music:
