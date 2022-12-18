@@ -12,30 +12,17 @@
 
 }
 
-/*
-[data-icon]:before {
-  font-family: "linea-basic-elaboration-10" !important;
-  content: attr(data-icon);
-  font-style: normal !important;
-  font-weight: normal !important;
-  font-variant: normal !important;
-  text-transform: none !important;
-  speak: none;
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-*/
-
 [class^="linea-basic-elaboration-"]:before,
 [class*=" linea-basic-elaboration-"]:before {
   font-family: "linea-basic-elaboration-10" !important;
-  font-style: normal !important;
-  font-weight: normal !important;
-  font-variant: normal !important;
-  text-transform: none !important;
   speak: none;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
   line-height: 1;
+
+  /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

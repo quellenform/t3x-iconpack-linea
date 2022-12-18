@@ -12,30 +12,17 @@
 
 }
 
-/*
-[data-icon]:before {
-  font-family: "linea-ecommerce-10" !important;
-  content: attr(data-icon);
-  font-style: normal !important;
-  font-weight: normal !important;
-  font-variant: normal !important;
-  text-transform: none !important;
-  speak: none;
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-*/
-
 [class^="linea-ecommerce-"]:before,
 [class*=" linea-ecommerce-"]:before {
   font-family: "linea-ecommerce-10" !important;
-  font-style: normal !important;
-  font-weight: normal !important;
-  font-variant: normal !important;
-  text-transform: none !important;
   speak: none;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
   line-height: 1;
+
+  /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -128,7 +115,7 @@
   content: "v";
 }
 
-.linea-ecommerce-bath:before {
+.linea-ecommerce-baht:before {
   content: "w";
 }
 
@@ -264,7 +251,7 @@
   content: "3";
 }
 
-.linea-ecommerce-receipt-bath:before {
+.linea-ecommerce-receipt-baht:before {
   content: "4";
 }
 
