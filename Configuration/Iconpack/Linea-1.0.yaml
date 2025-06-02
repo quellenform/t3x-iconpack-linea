@@ -69,7 +69,6 @@ iconpack:
       _default:
         attributes:
           class: "linea"
-          role: "img"
       basic:
         source: "EXT:iconpack_linea/Resources/Public/Vendor/linea-1.0/svgs/basic/"
       music:
