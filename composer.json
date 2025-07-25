@@ -31,6 +31,11 @@
 		"typo3/cms-core": ">=10.4 <14",
 		"quellenform/t3x-iconpack": ">=0.2 ^1.0"
 	},
+	"autoload": {
+		"psr-4": {
+			"Quellenform\\IconpackLinea\\": "Classes"
+		}
+	},
 	"replace": {
 		"typo3-ter/iconpack-linea": "self.version"
 	},
